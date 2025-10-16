@@ -67,4 +67,4 @@ PythonProject/
 ---
 
 ## Author
-- Your Name
+- Hadassa Alback
